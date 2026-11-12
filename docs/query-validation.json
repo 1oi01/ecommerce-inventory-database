@@ -1,0 +1,120 @@
+[
+  {
+    "columns": [
+      "ProductID",
+      "Name",
+      "Description",
+      "Price",
+      "StockLevel"
+    ],
+    "rows": [
+      [
+        110,
+        "Iphone 11 Pro",
+        "128GB",
+        3500,
+        0
+      ],
+      [
+        140,
+        "Iphone 15 Plus",
+        "1TB",
+        7000,
+        0
+      ]
+    ]
+  },
+  {
+    "columns": [
+      "ProductID",
+      "TotalSales"
+    ],
+    "rows": [
+      [
+        110,
+        40000
+      ],
+      [
+        120,
+        356000
+      ],
+      [
+        130,
+        3000000
+      ],
+      [
+        140,
+        1504000
+      ],
+      [
+        150,
+        66000
+      ]
+    ]
+  },
+  {
+    "columns": [
+      "TrackingNumber",
+      "OrderID",
+      "ShppingStatus",
+      "DeliveryDate"
+    ],
+    "rows": [
+      [
+        16475,
+        15,
+        "Done",
+        "2025-03-25"
+      ],
+      [
+        16378,
+        17,
+        "Done",
+        "2025-03-29"
+      ],
+      [
+        16445,
+        19,
+        "Shipped",
+        "2025-04-06"
+      ]
+    ]
+  },
+  {
+    "columns": [
+      "CustomerID",
+      "FirstName",
+      "Lastname",
+      "Number_Of_Orders"
+    ],
+    "rows": [
+      [
+        11,
+        "Rakan",
+        "Fahad",
+        4
+      ]
+    ]
+  },
+  {
+    "columns": [
+      "TotalInventoryValue"
+    ],
+    "rows": [
+      [
+        4655000
+      ]
+    ]
+  },
+  {
+    "columns": [
+      "OrderID",
+      "OrderDate",
+      "Status",
+      "CustomerID",
+      "FirstName",
+      "Lastname"
+    ],
+    "rows": []
+  }
+]
